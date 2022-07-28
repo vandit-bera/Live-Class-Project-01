@@ -17,7 +17,7 @@
 <h3 align="center">Project 01</h3>
 
   <p align="center">   
-    <a href="<!--  -->">View Live Demo</a>
+    <a href="https://vb-live-class-project-01.netlify.app/">View Live Demo</a>
   </p>
 </div>
 
@@ -48,7 +48,7 @@ This project is presently deployed in **Netlify Service**.
 
 
 
-[Live Project URL](https://trending25.netlify.app/)
+[Live Project URL](https://vb-live-class-project-01.netlify.app/)
 <br>
 
 
@@ -90,7 +90,7 @@ For this project i took around `6 to 7 hours` to complete it. The major portion 
 - **Email 📧:** [vanditbera@gmail.com](mailto:vanditbera@gmail.com)
 - **Blog 📝:** [blogs.Vandit2510.in](https://vandit-bera.hashnode.dev/)
 
-Project Link: []()
+Project Link: [https://vb-live-class-project-01.netlify.app/](https://vb-live-class-project-01.netlify.app/)
 
 
 <!-- Linkedin -->
