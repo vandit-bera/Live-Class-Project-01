@@ -90,7 +90,7 @@ For this project i took around `6 to 7 hours` to complete it. The major portion 
 - **Email 📧:** [vanditbera@gmail.com](mailto:vanditbera@gmail.com)
 - **Blog 📝:** [blogs.Vandit2510.in](https://vandit-bera.hashnode.dev/)
 
-Project Link: [https://vb-live-class-project-01.netlify.app/](https://vb-live-class-project-01.netlify.app/)
+Project Link: [https://github.com/vandit-bera/Live-Class-Project-01](https://github.com/vandit-bera/Live-Class-Project-01)
 
 
 <!-- Linkedin -->
